@@ -1,1 +1,1 @@
-# PicGo
+# Pic_bed
